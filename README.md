@@ -14,6 +14,8 @@ Data Cleaning: The data has been cleaned to ensure accuracy and reliability in t
 Visualization: Dashboards have been created using Tableau, Power BI, and Tableau.
 Data Querying: SQL queries have been written to extract and manipulate data.
 KPI Analysis: Various KPI questions have been answered, including:
+
+
 ****Year-wise loan amount statistics.
 
 Grade and sub-grade-wise revol_bal.
