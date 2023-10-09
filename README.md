@@ -1,4 +1,4 @@
-**Title: Project: **Bank Loan Analysis in Finance Domain********
+****Title: Project: **Bank Loan Analysis in Finance Domain****
 
 GitHub Repository: Bank-Loan-Analysis
 
